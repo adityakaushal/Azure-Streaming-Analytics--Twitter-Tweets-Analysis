@@ -1,0 +1,13 @@
+/Users/adityakaushal/Desktop/TwitterClientCore/bin/Debug/netcoreapp2.1/TwitterClientCore.dll.config
+/Users/adityakaushal/Desktop/TwitterClientCore/bin/Debug/netcoreapp2.1/TwitterClientCore.deps.json
+/Users/adityakaushal/Desktop/TwitterClientCore/bin/Debug/netcoreapp2.1/TwitterClientCore.runtimeconfig.json
+/Users/adityakaushal/Desktop/TwitterClientCore/bin/Debug/netcoreapp2.1/TwitterClientCore.runtimeconfig.dev.json
+/Users/adityakaushal/Desktop/TwitterClientCore/bin/Debug/netcoreapp2.1/TwitterClientCore.dll
+/Users/adityakaushal/Desktop/TwitterClientCore/bin/Debug/netcoreapp2.1/TwitterClientCore.pdb
+/Users/adityakaushal/Desktop/TwitterClientCore/obj/Debug/netcoreapp2.1/TwitterClientCore.csprojAssemblyReference.cache
+/Users/adityakaushal/Desktop/TwitterClientCore/obj/Debug/netcoreapp2.1/TwitterClientCore.AssemblyInfoInputs.cache
+/Users/adityakaushal/Desktop/TwitterClientCore/obj/Debug/netcoreapp2.1/TwitterClientCore.AssemblyInfo.cs
+/Users/adityakaushal/Desktop/TwitterClientCore/obj/Debug/netcoreapp2.1/TwitterClientCore.csproj.CoreCompileInputs.cache
+/Users/adityakaushal/Desktop/TwitterClientCore/obj/Debug/netcoreapp2.1/TwitterClientCore.dll
+/Users/adityakaushal/Desktop/TwitterClientCore/obj/Debug/netcoreapp2.1/TwitterClientCore.pdb
+/Users/adityakaushal/Desktop/TwitterClientCore/obj/Debug/netcoreapp2.1/TwitterClientCore.genruntimeconfig.cache
